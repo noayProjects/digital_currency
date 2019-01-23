@@ -26,17 +26,17 @@
                 </div>
                 <div class="form-group">
 
-                    <input name="phone" type="tel" class="form-control tell" id="tell" placeholder="شماره همراه"  required>
+                    <input name="password" type="password" class="form-control tell" placeholder="رمز عبور"  required>
                 </div>
                 <div class="buttons">
-                    <button type="submit" class="btn btn-primary  login-btn">ثبت نام</button>
-                    <button href="#" class="btn btn-primary  signin-btn">ورود</button>
+                    <a href="{{route('register')}}" class="btn btn-primary  signin-btn" >ثبت نام</a>
+                    <button type="submit" class="btn btn-primary  login-btn">ورود</button>
                 </div>
             </form>
 
         </div>
         <div class="col-sm-6 left_section">
-            <img src="img/loginpicture.png">
+            <img src="{{asset('img/loginpicture.png')}}">
         </div>
 
     </div>
