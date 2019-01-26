@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" href="{{asset('css/login.css')}}">
-    <link rel="stylesheet" href="{{asset('fonts/fontiran.css')}}">
-    <link rel="stylesheet" href="{{asset('css/responsive.css')}}">
-    <title></title>
-</head>
 <body>
 <div class=" container-fluid">
     <div class="row">
