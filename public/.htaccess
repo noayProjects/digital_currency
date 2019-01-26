@@ -4,6 +4,7 @@
     </IfModule>
 
     RewriteEngine On
+    RewriteBase '/digital-currency/
 
     # Handle Authorization Header
     RewriteCond %{HTTP:Authorization} .
