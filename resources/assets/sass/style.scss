@@ -260,8 +260,8 @@ body {
 }
 
 .left-section img {
-  width: 75%;
-  height: 75%;
+  width: 80%;
+
 }
 
 
@@ -287,6 +287,7 @@ body {
 }
 .img-container{
   img{
+    //transform: rotate(-180deg);
     max-width: 450px;
   }
 }
@@ -315,6 +316,9 @@ body {
   }
 }
 @media only screen and (max-width: 576px) {
+  .right-section{
+    height: auto !important;
+  }
   .sign-form-container{
     width: 100% !important;
   }

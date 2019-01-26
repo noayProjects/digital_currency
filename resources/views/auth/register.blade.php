@@ -60,8 +60,8 @@
                 </div>
             </div>
             <div class="col-md-6 left-section d-none d-md-block text-center">
-                <div class="img-container">
-                    <img src="{{asset('img/loginpicture.png')}}" alt="hero">
+                <div class="img-container w-100 h-100 d-flex align-items-center justify-content-center">
+                    <img src="{{asset('img/block-sec3.png')}}" alt="hero">
                 </div>
             </div>
         </div>

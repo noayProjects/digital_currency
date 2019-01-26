@@ -3,7 +3,7 @@
     <div class="container-fluid no-gutters m-0">
         <div class="row h-100">
             <div class="col-md-6 pt-2 p-sm-5">
-                <div class="d-flex flex-column w-75 m-auto sign-form-container">
+                <div class="right-section h-100 d-flex flex-column w-75 m-auto sign-form-container justify-content-center">
                     <div class="text-center">
                         <img class="logo" src="img/logo.png">
                         <p class="slogan">امن ترین پلتفرم معاملات ارزهای دیجیتال</p>
@@ -34,8 +34,8 @@
                 </div>
             </div>
             <div class="col-md-6 left-section d-none d-md-block text-center">
-                <div class="img-container">
-                    <img src="{{asset('img/loginpicture.png')}}" alt="hero">
+                <div class="img-container w-100 h-100 d-flex align-items-center justify-content-center">
+                    <img src="{{asset('img/block-sec3.png')}}" alt="hero">
 
                 </div>
             </div>
